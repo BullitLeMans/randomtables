@@ -1,0 +1,13 @@
+!import-table --diseases-spread-by --hide
+!import-table-item --diseases-spread-by --inhaling contaminated air --1 --
+!import-table-item --diseases-spread-by --drinking contaminated water --1 --
+!import-table-item --diseases-spread-by --consuming contaminated food --1 --
+!import-table-item --diseases-spread-by --skin-to-skin contact --1 --
+!import-table-item --diseases-spread-by --saliva, sweat, mucus, and/or blood --1 --
+!import-table-item --diseases-spread-by --sexual contact --1 --
+!import-table-item --diseases-spread-by --the bite of a fly or tick --1 --
+!import-table-item --diseases-spread-by --the bite of a rat or bat --1 --
+!import-table-item --diseases-spread-by --nothing; it's a genetic condition --1 --
+!import-table-item --diseases-spread-by --nothing; it's a chronic condition brought on by lifestyle choices --1 --
+!import-table-item --diseases-spread-by --mysterious, magic-related means --1 --
+!import-table-item --diseases-spread-by --unknown means --1 --

@@ -1,0 +1,11 @@
+!import-table --diseases-regions-encountered --hide
+!import-table-item --diseases-regions-encountered --a tropical climate --1 --
+!import-table-item --diseases-regions-encountered --an arid climate --1 --
+!import-table-item --diseases-regions-encountered --a mediterranean climate --1 --
+!import-table-item --diseases-regions-encountered --a coastal climate --1 --
+!import-table-item --diseases-regions-encountered --a cold climate --1 --
+!import-table-item --diseases-regions-encountered --a temperate climate --1 --
+!import-table-item --diseases-regions-encountered --a foggy or damp climate --1 --
+!import-table-item --diseases-regions-encountered --swamps, bogs, or marsh land --1 --
+!import-table-item --diseases-regions-encountered --dense jungles --1 --
+!import-table-item --diseases-regions-encountered --high altitude --1 --

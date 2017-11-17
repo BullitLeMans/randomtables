@@ -1,0 +1,9 @@
+!import-table --diseases-common-symptoms-sex-organs --hide
+!import-table-item --diseases-common-symptoms-sex-organs --loss of desire --1 --
+!import-table-item --diseases-common-symptoms-sex-organs --pale discharge --1 --
+!import-table-item --diseases-common-symptoms-sex-organs --inability to climax --1 --
+!import-table-item --diseases-common-symptoms-sex-organs --open sores --1 --
+!import-table-item --diseases-common-symptoms-sex-organs --pain during urination --1 --
+!import-table-item --diseases-common-symptoms-sex-organs --warts --1 --
+!import-table-item --diseases-common-symptoms-sex-organs --itchy bumps --1 --
+!import-table-item --diseases-common-symptoms-sex-organs --bloody discharge --1 --

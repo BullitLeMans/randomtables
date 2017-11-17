@@ -1,0 +1,9 @@
+!import-table --diseases-common-symptoms-brain --hide
+!import-table-item --diseases-common-symptoms-brain --changes in mood --1 --
+!import-table-item --diseases-common-symptoms-brain --dissociative fugues --1 --
+!import-table-item --diseases-common-symptoms-brain --dizziness --1 --
+!import-table-item --diseases-common-symptoms-brain --drowsiness --1 --
+!import-table-item --diseases-common-symptoms-brain --headaches --1 --
+!import-table-item --diseases-common-symptoms-brain --insomnia --1 --
+!import-table-item --diseases-common-symptoms-brain --nightmares --1 --
+!import-table-item --diseases-common-symptoms-brain --shortened attention span --1 --

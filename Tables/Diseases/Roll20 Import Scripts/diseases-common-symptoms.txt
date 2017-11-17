@@ -1,0 +1,11 @@
+!import-table --diseases-common-symptoms --hide
+!import-table-item --diseases-common-symptoms --eyes (<%%91%%><%%91%%>1t<%%91%%>diseases-common-symptoms-eyes<%%93%%><%%93%%><%%93%%>) --1 --
+!import-table-item --diseases-common-symptoms --brain (<%%91%%><%%91%%>1t<%%91%%>diseases-common-symptoms-brain<%%93%%><%%93%%><%%93%%>) --1 --
+!import-table-item --diseases-common-symptoms --chest (<%%91%%><%%91%%>1t<%%91%%>diseases-common-symptoms-chest<%%93%%><%%93%%><%%93%%>) --1 --
+!import-table-item --diseases-common-symptoms --ears and throat (<%%91%%><%%91%%>1t<%%91%%>diseases-common-symptoms-ears-and-throat<%%93%%><%%93%%><%%93%%>) --1 --
+!import-table-item --diseases-common-symptoms --head and nose (<%%91%%><%%91%%>1t<%%91%%>diseases-common-symptoms-head-and-nose<%%93%%><%%93%%><%%93%%>) --1 --
+!import-table-item --diseases-common-symptoms --limbs (<%%91%%><%%91%%>1t<%%91%%>diseases-common-symptoms-limbs<%%93%%><%%93%%><%%93%%>) --1 --
+!import-table-item --diseases-common-symptoms --mouth (<%%91%%><%%91%%>1t<%%91%%>diseases-common-symptoms-mouth<%%93%%><%%93%%><%%93%%>) --1 --
+!import-table-item --diseases-common-symptoms --sex organs (<%%91%%><%%91%%>1t<%%91%%>diseases-common-symptoms-sex-organs<%%93%%><%%93%%><%%93%%>) --1 --
+!import-table-item --diseases-common-symptoms --skin (<%%91%%><%%91%%>1t<%%91%%>diseases-common-symptoms-skin<%%93%%><%%93%%><%%93%%>) --1 --
+!import-table-item --diseases-common-symptoms --stomach and gut (<%%91%%><%%91%%>1t<%%91%%>diseases-common-symptoms-stomach-and-gut<%%93%%><%%93%%><%%93%%>) --1 --

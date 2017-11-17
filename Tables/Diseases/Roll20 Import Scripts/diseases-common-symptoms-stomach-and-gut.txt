@@ -1,0 +1,9 @@
+!import-table --diseases-common-symptoms-stomach-and-gut --hide
+!import-table-item --diseases-common-symptoms-stomach-and-gut --bloody stool --1 --
+!import-table-item --diseases-common-symptoms-stomach-and-gut --constipation --1 --
+!import-table-item --diseases-common-symptoms-stomach-and-gut --excessive flatulence --1 --
+!import-table-item --diseases-common-symptoms-stomach-and-gut --loose stool --1 --
+!import-table-item --diseases-common-symptoms-stomach-and-gut --loss of appetite --1 --
+!import-table-item --diseases-common-symptoms-stomach-and-gut --nausea and vomiting --1 --
+!import-table-item --diseases-common-symptoms-stomach-and-gut --ulcers --1 --
+!import-table-item --diseases-common-symptoms-stomach-and-gut --vomiting blood --1 --

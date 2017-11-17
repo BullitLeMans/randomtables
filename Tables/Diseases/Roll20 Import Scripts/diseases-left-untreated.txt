@@ -1,0 +1,7 @@
+!import-table --diseases-left-untreated --hide
+!import-table-item --diseases-left-untreated --rarely serious; running its course in a few days or weeks --1 --
+!import-table-item --diseases-left-untreated --rarely lethal; fatal complications occur in less than 1% of cases --1 --
+!import-table-item --diseases-left-untreated --sometimes debilitating, but rarely lethal; permanent disabilities occur in approximately 10% of cases, and fatal complications in less than 1% of cases --1 --
+!import-table-item --diseases-left-untreated --sometimes lethal; fatal complications occur in approximately 10% of cases --1 --
+!import-table-item --diseases-left-untreated --often debilitating, and sometimes lethal; permanent disabilities occur in more than 50% of cases, and fatal complications in approximately 10% of cases --1 --
+!import-table-item --diseases-left-untreated --often lethal; fatal complications occur in more than 50% of cases --1 --

@@ -1,0 +1,9 @@
+!import-table --diseases-common-symptoms-ears-and-throat --hide
+!import-table-item --diseases-common-symptoms-ears-and-throat --hearing loss --1 --
+!import-table-item --diseases-common-symptoms-ears-and-throat --difficulty swallowing --1 --
+!import-table-item --diseases-common-symptoms-ears-and-throat --excessive ear wax --1 --
+!import-table-item --diseases-common-symptoms-ears-and-throat --sore throat --1 --
+!import-table-item --diseases-common-symptoms-ears-and-throat --swollen glands --1 --
+!import-table-item --diseases-common-symptoms-ears-and-throat --vertigo --1 --
+!import-table-item --diseases-common-symptoms-ears-and-throat --bleeding from the ears --1 --
+!import-table-item --diseases-common-symptoms-ears-and-throat --loss of voice --1 --

@@ -1,0 +1,9 @@
+!import-table --diseases-common-symptoms-mouth --hide
+!import-table-item --diseases-common-symptoms-mouth --bleeding gums --1 --
+!import-table-item --diseases-common-symptoms-mouth --canker sores --1 --
+!import-table-item --diseases-common-symptoms-mouth --cracked lips --1 --
+!import-table-item --diseases-common-symptoms-mouth --dry mouth --1 --
+!import-table-item --diseases-common-symptoms-mouth --foamy, excessive salivation --1 --
+!import-table-item --diseases-common-symptoms-mouth --tooth pain --1 --
+!import-table-item --diseases-common-symptoms-mouth --tooth discoloration --1 --
+!import-table-item --diseases-common-symptoms-mouth --tooth decay --1 --

@@ -1,0 +1,28 @@
+!import-table --diseases-rare-symptoms --hide
+!import-table-item --diseases-rare-symptoms --amnesia (partial) --1 --
+!import-table-item --diseases-rare-symptoms --blindness --1 --
+!import-table-item --diseases-rare-symptoms --coma (short-term) --1 --
+!import-table-item --diseases-rare-symptoms --complete changes in personality --1 --
+!import-table-item --diseases-rare-symptoms --concurrent vomiting and diarrhea --1 --
+!import-table-item --diseases-rare-symptoms --coughing up blood --1 --
+!import-table-item --diseases-rare-symptoms --delusions and paranoia --1 --
+!import-table-item --diseases-rare-symptoms --extreme, persistent nausea --1 --
+!import-table-item --diseases-rare-symptoms --fits of narcolepsy --1 --
+!import-table-item --diseases-rare-symptoms --hallucinations --1 --
+!import-table-item --diseases-rare-symptoms --insomnia --1 --
+!import-table-item --diseases-rare-symptoms --lengthy fits of high fever --1 --
+!import-table-item --diseases-rare-symptoms --loss of muscle coordination --1 --
+!import-table-item --diseases-rare-symptoms --paralysis (partial) --1 --
+!import-table-item --diseases-rare-symptoms --periodic, temporary loss of consciousness (<%%91%%><%%91%%>1d12<%%93%%><%%93%%> hours) --1 --
+!import-table-item --diseases-rare-symptoms --sleep walking --1 --
+!import-table-item --diseases-rare-symptoms --susceptibility to other illnesses --1 --
+!import-table-item --diseases-rare-symptoms --tumors or tumor-like growths --1 --
+!import-table-item --diseases-rare-symptoms --wild mood swings --1 --
+!import-table-item --diseases-rare-symptoms --sudden aversion to one or more familiar foods --1 --
+!import-table-item --diseases-rare-symptoms --amnesia (complete) --1 --
+!import-table-item --diseases-rare-symptoms --deafness --1 --
+!import-table-item --diseases-rare-symptoms --coma (long-term) --1 --
+!import-table-item --diseases-rare-symptoms --coma (indefinite) --1 --
+!import-table-item --diseases-rare-symptoms --paralysis (complete) --1 --
+!import-table-item --diseases-rare-symptoms --sudden aversion to one or more individuals --1 --
+!import-table-item --diseases-rare-symptoms --sudden aversion to one or more objects --1 --

@@ -1,0 +1,9 @@
+!import-table --diseases-common-symptoms-eyes --hide
+!import-table-item --diseases-common-symptoms-eyes --blurred vision --1 --
+!import-table-item --diseases-common-symptoms-eyes --light sensitivity --1 --
+!import-table-item --diseases-common-symptoms-eyes --puffiness --1 --
+!import-table-item --diseases-common-symptoms-eyes --poor night vision --1 --
+!import-table-item --diseases-common-symptoms-eyes --watery eyes --1 --
+!import-table-item --diseases-common-symptoms-eyes --yellow discharge --1 --
+!import-table-item --diseases-common-symptoms-eyes --double vision --1 --
+!import-table-item --diseases-common-symptoms-eyes --difficulty focusing --1 --

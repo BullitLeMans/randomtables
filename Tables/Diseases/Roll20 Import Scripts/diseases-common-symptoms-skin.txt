@@ -1,0 +1,9 @@
+!import-table --diseases-common-symptoms-skin --hide
+!import-table-item --diseases-common-symptoms-skin --black or purple spots --1 --
+!import-table-item --diseases-common-symptoms-skin --boils --1 --
+!import-table-item --diseases-common-symptoms-skin --itchiness --1 --
+!import-table-item --diseases-common-symptoms-skin --pale or yellow hue --1 --
+!import-table-item --diseases-common-symptoms-skin --peeling --1 --
+!import-table-item --diseases-common-symptoms-skin --rash --1 --
+!import-table-item --diseases-common-symptoms-skin --red spots --1 --
+!import-table-item --diseases-common-symptoms-skin --scales --1 --

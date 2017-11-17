@@ -1,0 +1,9 @@
+!import-table --diseases-common-symptoms-limbs --hide
+!import-table-item --diseases-common-symptoms-limbs --achiness --1 --
+!import-table-item --diseases-common-symptoms-limbs --joint pain --1 --
+!import-table-item --diseases-common-symptoms-limbs --muscle spasms --1 --
+!import-table-item --diseases-common-symptoms-limbs --restlessness --1 --
+!import-table-item --diseases-common-symptoms-limbs --stiff joints --1 --
+!import-table-item --diseases-common-symptoms-limbs --weakness --1 --
+!import-table-item --diseases-common-symptoms-limbs --bruising --1 --
+!import-table-item --diseases-common-symptoms-limbs --discoloration of the fingernails or toenails --1 --

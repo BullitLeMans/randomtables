@@ -1,0 +1,7 @@
+!import-table --diseases-treatment-time --hide
+!import-table-item --diseases-treatment-time --rapid; the afflicted is cured within 1 day --1 --
+!import-table-item --diseases-treatment-time --short; the afflicted is cured within a few days of receiving treatment --1 --
+!import-table-item --diseases-treatment-time --typical; the afflicted is cured within a few days of receiving treatment --1 --
+!import-table-item --diseases-treatment-time --lengthy; the afflicted is cured within a few weeks of receiving treatment --1 --
+!import-table-item --diseases-treatment-time --long-term; the afflicted is cured within a few months of receiving treatment --1 --
+!import-table-item --diseases-treatment-time --erratic; the time-course of treatment varies greatly among individuals or among outbreaks of the disease --1 --

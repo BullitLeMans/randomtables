@@ -1,0 +1,9 @@
+!import-table --diseases-common-symptoms-chest --hide
+!import-table-item --diseases-common-symptoms-chest --chest pain --1 --
+!import-table-item --diseases-common-symptoms-chest --congestion --1 --
+!import-table-item --diseases-common-symptoms-chest --coughing fits --1 --
+!import-table-item --diseases-common-symptoms-chest --hives --1 --
+!import-table-item --diseases-common-symptoms-chest --wheezing --1 --
+!import-table-item --diseases-common-symptoms-chest --shortness of breath --1 --
+!import-table-item --diseases-common-symptoms-chest --coughing up blood --1 --
+!import-table-item --diseases-common-symptoms-chest --tightness in chest --1 --
