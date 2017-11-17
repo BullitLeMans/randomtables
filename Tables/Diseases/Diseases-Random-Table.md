@@ -1,6 +1,7 @@
 # Diseases
 
 Credit to /u/lotrein and /u/OrkishBlade
+
 Originally found at https://www.reddit.com/r/BehindTheTables/comments/4nldep/diseases/
 
 
