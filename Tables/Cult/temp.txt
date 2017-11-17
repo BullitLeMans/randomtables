@@ -144,48 +144,51 @@ Possible plot hooks include "//8" and "//8".*
 | 92 - 95 | Royalty. |
 | 96 - 100 | The clergy of a notable temple. |
 
-##### Abstract Concept (7)		
-Prob.	Result	Go to:
-1	the cleansing nature of fire
-1	filth
-1	decay
-1	peace in death
-1	the flowing nature of water
-1	the raw power of lightning/thunder
-1	the solidity of earth
-1	the void
-1	the creative potential of confusion
-1	death as transition and change
-1	forgetfullness
-1	justice
-1	chaos
-1	renewal
-1	purity
-1	divine indifference
+##### Abstract Concept (7)
+| d100 | The cult is somehow associated with the abstract concept of...|
+|:----:|:-------------|
+| 1 - 6 | the cleansing nature of fire. |
+| 7 - 12 | filth. |
+| 13 - 19 |	decay. |
+| 20 - 25 |	peace in death. |
+|	26 - 31 | the flowing nature of water. |
+| 32 - 38 |	the raw power of lightning/thunder. |
+| 39 - 44 |	the solidity of earth. |
+| 45 - 50 |	the void. |
+| 51 - 57 |	the creative potential of confusion.
+|	58 - 63 | death as transition and change. |
+| 64 - 70 | forgetfullness. |
+| 71 - 76 |	justice. |
+| 77 - 82 |	chaos. |
+| 83 - 88 |	renewal. |
+| 89 - 94 |	purity. |
+| 95 - 100 |	divine indifference. |
 
-##### Plot hooks (8)		
-Prob.	Result	Go to:
-1	People go missing
-1	Revered one doesn't actually like the cult, wants party to smite them
-1	Revered one doesn't actually like the cult, can't bear to tell them
-1	Revered one was seen around town in shitty disguise
-1	Crazed madman running around speaking pseudo religious gibberish
-1	Paladin cast out of order, but didn't do it
-1	Powerful cleric keeps forgetting previous night and manifesting stigmata
-1	Cultist wants aid in pilgrimmage to holy shrine
-1	A jilted former member wants the cover blown, doesn't want to talk about involvement
-1	A poor old woman is being harassed by cultists
-1	Graffiti starts appearing
-1	Image of revered one appeared in non-believers meal
-1	Cultists left a big mess somewhere
-1	Cultists harassed the wrong person
-1	Strange items go missing
-1	Former member survives assassination plot
-1	Cultist tries to convert adventurers.
-1	PCs stumble upon ceremony
-1	Cultist found dead, obviously in middle of ceremony
+##### Plot hooks (8)
+*Roll on this table twice.*
+| d100 | Plot Hooks |
+|:----:|:-------------|
+| 1 - 5 | People go missing. |
+| 6 - 10 | Revered one doesn't actually like the cult, wants party to smite them. |
+| 11 - 16 | Revered one doesn't actually like the cult, can't bear to tell them. |
+| 17 - 21 | Revered one was seen around town in shitty disguise. |
+| 22 - 26 | Crazed madman running around speaking pseudo religious gibberish. |
+| 27 - 31 | Paladin cast out of order, but didn't do it. |
+| 32 - 37 | Powerful cleric keeps forgetting previous night and manifesting stigmata. |
+| 38 - 42 | Cultist wants aid in pilgrimage to holy shrine. |
+| 43 - 47 | A jilted former member wants the cover blown, doesn't want to talk about involvement. |
+| 48 - 52 | A poor old woman is being harassed by cultists. |
+| 53 - 58 | Graffiti starts appearing. |
+| 59 - 63 | Image of revered one appeared in non-believers meal. |
+| 64 - 68 | Cultists left a big mess somewhere. |
+| 69 - 73 | Cultists harassed the wrong person. |
+| 74 - 79 | Strange items go missing. |
+| 80 - 84 | Former member survives assassination plot. |
+| 85 - 89 | Cultist tries to convert adventurers. |
+| 90 - 94 | PCs stumble upon ceremony. |
+| 95 - 100 | Cultist found dead, obviously in middle of ceremony. |
 
-##### Dragons(10)		
+##### Dragons(10)
 Prob.	Result	Go to:
 1	a black dragon (usually vile-tempered and cruel, CE, prefer boggy swamps and value gold coins, they breathe acid)
 1	a blue dragon (usually mocking and manipulative, LE, prefer sandy deserts and value sapphires, lightning breath)
@@ -194,7 +197,7 @@ Prob.	Result	Go to:
 1	a white dragon (usually feral and bullying, CE, prefer arctic mountains and tunnels, will freeze and eat anything that moves, frost breath)
 1	a purple dragon (usually intelligent and feel they are lords of dragons, LE, prefer temperate plains, use minions, breathe energy)
 
-##### Evil Gods(11)		
+##### Evil Gods(11)
 Prob.	Result	Go to:
 1	Alafax, a Lawful Evil Greater God from the home plane of The Plains of Endless Strife (Alafax is the god of war and tyranny, he seeks only to conquer and rule.)
 1	Angra, a Chaotic Evil Intermediate God from the home plane of Abyss (Born of chaos, Angra the God of War has fostered hate between men and beast, showing them the art of war and the power which comes of it.)
@@ -240,7 +243,7 @@ Prob.	Result	Go to:
 1	Xox, a Chaotic Evil Lesser God from the home plane of Realm of the Second Breath (Xox is an undiluted formation of evil impulse. Murder, slaughter, ignominious thievery, lying, masochism, rape and performing wicked magics are all parts of what make his followers so vile.)
 1	Yith, a Neutral Evil Greater God from the home plane of The Necropolis (Yith is the god of death, decay, and the undead. Strangely he is also the father god of the Altinian Pantheon.)
 
-##### Aberrations(12)		
+##### Aberrations(12)
 Prob.	Result	Go to:
 1	an Aboleth
 1	an Athach
@@ -266,7 +269,7 @@ Prob.	Result	Go to:
 1	an Umber hulk
 1	a Will-o'-Wisp
 
-##### elder evils(13)		
+##### elder evils(13)
 Prob.	Result	Go to:
 1	the elder evil Algollied (Algollied, the Melody of Death, a sentient song whose presence drives its listeners mad.)
 1	the elder evil Azter (Azter, The Blood Emperor, He Who Swims Time and Space, the Time Devourer and Scion of Hopelessness.)
@@ -278,7 +281,7 @@ Prob.	Result	Go to:
 1	the elder evil Zalgo (The Nezperdian hive-mind of chaos.)
 1	the elder evil Zgazdrkrkl (Known as the primordial jellyfish, Zgazdrkrkl is composed of the infinite primal hatred of countless invertebrates towards all the bony creatures of this world.)
 
-##### Devils and Demons(14)		
+##### Devils and Demons(14)
 Prob.	Result	Go to:
 1	a Babau (demon)
 1	a Balor (demon)
@@ -311,7 +314,7 @@ Prob.	Result	Go to:
 1	an Osyluth (devil)
 1	a Pit Fiend (devil)
 
-##### Secrets(15)		
+##### Secrets(15)
 Prob.	Result	Go to:
 1	the whole thing is a scam
 1	its all a trick to scare the neighbors
