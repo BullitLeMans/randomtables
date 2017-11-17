@@ -25,10 +25,10 @@ Possible plot hooks include "//8" and "//8".*
 | 2 | a long-dead ancient hero. |
 | 3 | a long-dead ancient villain. |
 | 4 | a dead god. |
-| 5 | //12 (an abberant creature) |
-| 6 | //14 |
-| 7 | //11 |
-| 8 | an abstract concept of //7. |
+| 5 | a grotesque monster. |
+| 6 | an aberration.|
+| 7 | an evil god. |
+| 8 | an abstract concept of \_\_\_\_\_\_\_\_. *(Roll on the abstract concepts table.)*
 | 9 | twisted spirits of their ancestors.|
 | 10 | a living hero. |
 | 11 | the town/city itself. |
@@ -157,7 +157,7 @@ Possible plot hooks include "//8" and "//8".*
 | 45 - 50 |	the void. |
 | 51 - 57 |	the creative potential of confusion.
 |	58 - 63 | death as transition and change. |
-| 64 - 70 | forgetfullness. |
+| 64 - 70 | forgetfulness. |
 | 71 - 76 |	justice. |
 | 77 - 82 |	chaos. |
 | 83 - 88 |	renewal. |
@@ -166,6 +166,7 @@ Possible plot hooks include "//8" and "//8".*
 
 ##### Plot hooks (8)
 *Roll on this table twice.*
+
 | d100 | Plot Hooks |
 |:----:|:-------------|
 | 1 - 5 | People go missing. |
@@ -189,85 +190,30 @@ Possible plot hooks include "//8" and "//8".*
 | 95 - 100 | Cultist found dead, obviously in middle of ceremony. |
 
 ##### Dragons(10)
-Prob.	Result	Go to:
-1	a black dragon (usually vile-tempered and cruel, CE, prefer boggy swamps and value gold coins, they breathe acid)
-1	a blue dragon (usually mocking and manipulative, LE, prefer sandy deserts and value sapphires, lightning breath)
-1	a green dragon (usually cunning and duplicitous, LE, prefer forests, value emeralds, like eating gnomes and elves, breathe acid or chlorine gas)
-1	a red dragon (usually haughty and persuasive, CE, prefer mountains or hills, values everything and obsessed with growing hoard, can appraise any item, breath fire)
-1	a white dragon (usually feral and bullying, CE, prefer arctic mountains and tunnels, will freeze and eat anything that moves, frost breath)
-1	a purple dragon (usually intelligent and feel they are lords of dragons, LE, prefer temperate plains, use minions, breathe energy)
-
-##### Evil Gods(11)
-Prob.	Result	Go to:
-1	Alafax, a Lawful Evil Greater God from the home plane of The Plains of Endless Strife (Alafax is the god of war and tyranny, he seeks only to conquer and rule.)
-1	Angra, a Chaotic Evil Intermediate God from the home plane of Abyss (Born of chaos, Angra the God of War has fostered hate between men and beast, showing them the art of war and the power which comes of it.)
-1	Baal Adramelech, a LE Greater God from the home plane of Lower Realms (Topheth) (Baal Adramelech, the Burning King, is the god of tyranny, fear, domination, and fire. Born of submission, he opposes Allmother Hesaret. His scions are his personal guards Perillosa and Phalarisa, ever loyal servants.)
-1	Bane, a Lawful Evil Lesser God from the home plane of Realm of the Second Breath (Bane is tasked by Sylornath to look after those dead and slain who have performed many ill deeds. Bane does this without question, out of fear and respect for the creator of the realm on which he had made his own stay.)
-1	Belatucadros, a Lawful Evil Demigod God from the home plane of The Infernal Battlefield of Acheron (Avalas, Wyrregard) (In the land of Belatucadros, there shall be only war. Lo, for he is Belatucadros, He who is decorated in death, He whose bloodthirst is never sated.)
-1	Ben-Elaba, a Lawful Evil Greater God from the home plane of Tyrannus (Ben-Elaba is comparable to the classic genie who would grant you all your desire, and yet twist your wishes around to some dark end.)
-1	Choronzon, a Chaotic Evil Greater God from the home plane of Far Realm (Choronzon only desires to return the universe to its former truth state, which is to say it wishes to devour the material world and make it the far realm again.)
-1	Exaka, a Lawful Evil Greater God from the home plane of Nymnelia (Mesaba: The Damned City) (Exaka enslaves and enthralls lesser celestials by corrupting them with His promise of power and glory.)
-1	Fi'Ah, a Lawful Evil Intermediate God from the home plane of Elemental Plane of Fire (Fi'Ah appears as an ever-shifting humanoid made completely out of powerfully red flames. Fi'Ah is wholly devoted to the spread of fire, the act of spying on others without their consent, creating and destroying.)
-1	Gadlnaom, a Neutral Evil Lesser God from the home plane of Material (Gadlnaom sees a future perfectly, and will stop at nothing to watch the most glorious apocalypse.)
-1	Ghora-Fatum, a Neutral Evil Lesser God from the home plane of Outer Space (A terror born from space, little is known of its purpose, for its mind is bent with madness.)
-1	Guygus, a Chaotic Evil Greater God from the home plane of Nymnelia, Deep Core (He is a powerful, violent and temperamental force of evil that acts upon His own accord to fulfill His own desires.)
-1	Inara, a Neutral Evil Lesser God from the home plane of Prime Material/ Planet Incendia (Inara is the Wife of Dorjan and was one of the first 100 Starborn created by Erreun.)
-1	Ireul, a Lawful Evil Intermediate God from the home plane of Archeron (Ocanthus) (Ireul desires to destroy positive emotions, dragging things into a dreary, "truthful" existence with her.)
-1	Ixtab, a Chaotic Evil Greater God from the home plane of Caedes (The Mad Goddess as they call her, unpredictable, violent, and wild. She is rarely worshiped because of this except by the mad, foolish seekers of knowledge, and those wishing for destruction.)
-1	Khain, a Lawful Evil Greater God from the home plane of Bloodfields (The god of war and law, he does not revile in slaughter like Bane, though, he reviles in successful and beneficial Wars.)
-1	Khorne, a Lawful Evil Greater God from the home plane of The Warp (Khorne is the blood god and the mightiest and oldest of the Chaos Gods thanks to the extreme levels of violence present throughout the multiverse.)
-1	Kukulkan, a Neutral Evil Demigod God from the home plane of Unknown (Out of all of the brachyuran gods, those dedicated to Kukulkan are the most dangerous, for they actively seek destruction, and in ways unpredictable.)
-1	Madam Crow, a Neutral Evil Lesser God from the home plane of The Cauldron (Madam Crow is as mysterious as she is eccentric. With the exception of a handful of beings, her existence was not even known before she founded The Maidens of the Crow.)
-1	Makatiel, a Neutral Evil Lesser God from the home plane of Carceri (Cathrys) (God of disease and all ills which spawn from the natural world, no one is friends with Makatiel, but he cares not.)
-1	Malazter, a Neutral Evil Intermediate God from the home plane of Carceri (Orthrys) (A Lord of Evil so utterly consumed by hate as to literally drown itself in a sea of its own manifested emotion. He desires nothing more than the ruin of Oan.)
-1	Mayahuel, a Chaotic Evil Lesser God from the home plane of The Deepzone (Mayahuel is the only female deity in the brachyuran pantheon appearing as a brachyura with a snake tail bottom and endless claw pincers along her entire length, like a centipede.)
-1	Mekrii, a Lawful Evil Intermediate God from the home plane of The Dark World (The Wastelands) (A wicked and sorcerous shadow dragon goddess with a vile hunger and merciless temperament.)
-1	Necoc Yaotl, a Lawful Evil Lesser God from the home plane of The Deepzone (A disturbing creature who supposedly lives in the darkest and deepest part of the ocean, Necoc Yaotl resembles a titanic football fish with six tentacles tipped with claws, and semi-transparent smoky body lit with ghostly lights in the darkness.)
-1	Nurgle, a Neutral Evil Greater God from the home plane of The Warp (Lord of Plagues)
-1	Oiwa, a Neutral Evil Demigod God from the home plane of Hades (Niflheim) (She appears as a small girl, pale white skin and long black hair, whose eyes are often bleeding and whose body is marked with a thousand hidden scars on her wrists and neck.)
-1	OneNode, a Stupid Evil Lesser God from the home plane of Internet (OneNode is a tricky digital god which offers aid and information, only to steal away the ideas at the last second.)
-1	Pesta, a NE Intermediate God from the home plane of Lower Realms (Duzakh) (Pesta the Whisperer is the god of disease, death, necromancy, and secrets. Born of awe, he opposes Spellweaver Volho. His scion is Lifeshaver Ankou, the grim reaper.)
-1	Promathia, a Neutral Evil Greater God from the home plane of The Dark Abyss of Promyvion (The dark God of Twilight, Promathia, father god of Vana'diel and instiller of each race's sin.)
-1	Qandisa, a CE Lesser God from the home plane of Lower Realms (Bran Castle) (Qandisa the Replendent is the god of hedonism, passion, obsession, and art. Born of love, he opposes Asase Ya the Bountiful. His scions are members of his Carvakan Harem, those obsessed with six senses of experience.)
-1	Rage, a Chaotic Evil Hero God from the home plane of Unkown (One of the Three Grand Brothers. He is the ultimate evil incarnated.)
-1	Raum, a Chaotic Evil Intermediate God from the home plane of Gehenna (Khalas) (Raum demands that those who are clever and deceptive are the ones fit for glory. He awards the puppetmaster, and holds the concept of controlled chaos, a purposeful discord completely under his command.)
-1	Razakel, a Chaotic Evil Intermediate God from the home plane of Pandemonium (Phlegethon) (The father of that which brings terror to mankind, the fearful nightmare in the dark. Razakel is the "father of monsters", a terrible demonic god of warped flesh and mind.)
-1	SoshaVee, a Neutral Evil Greater God from the home plane of Nymnelia (Sosha) (SoshaVee teaches that selfishness is the only real way to truly grasp your inner strength is to give to the self and its desire.)
-1	Sraosha, a Lawful Evil Greater God from the home plane of Baator (Dis) (The patron god of those leaders who would create order through force and fear, Sraosha appears as a stunningly handsome and tall, dark human with noble air about him, and a raven always at his beck and call.)
-1	Tlazolli, a Neutral Evil Lesser God from the home plane of The Deepzone (Tlazolli is the closest thing the brachyura have to a "god of nature". Worshiping him is as simple as respecting the natural underwater environment.)
-1	Tzeentch, a Lawful Evil Greater God from the home plane of The Warp (The Bird god of Change.)
-1	Tzxank, a Chaotic Evil Intermediate God from the home plane of Nymnelia (Deep Core) (Son and servant of Guygus, he channels the power of the Dream World to corrode sanity.)
-1	Wreitedes, a Neutral Evil Lesser God from the home plane of Material (Followers of Wreitedes strive for enlightenment through war, knowing that if they die they will be reincarnated to fight once again.)
-1	Xaphan, a Chaotic Evil Lesser God from the home plane of Abyss (Ira, Layer 425) (The horrors of war are made manifest through Xaphan, a towering burning red classic demon with massive leathery wings and obsidian horns.)
-1	Xolotl, a Neutral Evil Lesser God from the home plane of The Deepzone (Floods from the flood god! Lightning from his lightning spear! Xolotl hates the surface, smashing his chariot of waves against the shore and bringing the ocean deep onto land's territory.)
-1	Xox, a Chaotic Evil Lesser God from the home plane of Realm of the Second Breath (Xox is an undiluted formation of evil impulse. Murder, slaughter, ignominious thievery, lying, masochism, rape and performing wicked magics are all parts of what make his followers so vile.)
-1	Yith, a Neutral Evil Greater God from the home plane of The Necropolis (Yith is the god of death, decay, and the undead. Strangely he is also the father god of the Altinian Pantheon.)
+| d6 | Dragon |
+|:----:|:-------------|
+| 1 |	A black dragon. |
+| 2 | A blue dragon. |
+| 3 | A green dragon. |
+| 4 | A red dragon. |
+| 5 | A white dragon. |
+| 6 | A purple dragon. |
 
 ##### Aberrations(12)
-Prob.	Result	Go to:
-1	an Aboleth
-1	an Athach
-1	a Beholder
-1	a Carrion Crawler
-1	a Choker
-1	a Chuul
-1	a Cloaker
-1	a Delver
-1	a Destrachan
-1	a Drider
-1	an Ethereal Filcher
-1	an Ettercap
-1	a Gibbering Mouther
-1	a Grick
-1	a Mimic
-1	a Mind Flayer
-1	a Naga
-1	an Otyugh
-1	a Phasm
-1	a Rust Monster
-1	a Skum
-1	an Umber hulk
-1	a Will-o'-Wisp
+| d12 | Aberration |
+|:----:|:-------------|
+| 1 | Aboleth |
+| 2 | Chuul |
+| 3 | Cloaker |
+| 4 | Drider |
+| 5 | Ettercap |
+| 6 | Gibbering Mouther |
+| 7 | Grick |
+| 8 | Mimic |
+| 9 | Naga |
+| 10 | Otyugh |
+| 11 | Rust Monster |
+| 12 | Will-o'-Wisp |
 
 ##### elder evils(13)
 Prob.	Result	Go to:
