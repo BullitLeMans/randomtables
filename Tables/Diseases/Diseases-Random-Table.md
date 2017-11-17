@@ -1,8 +1,9 @@
 # Diseases
 
+Credit to /u/lotrein and /u/OrkishBlade
 Originally found at https://www.reddit.com/r/BehindTheTables/comments/4nldep/diseases/
 
-Credit to /u/lotrein and /u/OrkishBlade
+
 
 These tables can be used together to create a random disease.
 
@@ -91,104 +92,196 @@ Here's a sample result from the series:
 | 7 | Nightmares |
 | 8 | Shortened attention span |
 
-
 ###### Chest
-(d8): 1. chest pain; 2. congestion; 3. coughing fits; 4. hives; 5. wheezing; 6. shortness of breath; 7. coughing up blood; 8. tightness in chest.
+| d8 | Symptom |
+|:----:|:-------------|
+| 1 | chest pain |
+| 2 | congestion |
+| 3 | coughing fits |
+| 4 | hives |
+| 5 | wheezing |
+| 6 | shortness of breath |
+| 7 | coughing up blood |
+| 8 | tightness in chest |
 
-# Ears and throat
-(d8): 1. hearing loss; 2. difficulty swallowing; 3. excessive ear wax; 4. sore throat; 5. swollen glands; 6. vertigo; 7. bleeding from the ears; 8. loss of voice.
 
-# Head and nose
-(d8): 1. dry scalp; 2. hair loss; 3. pimples; 4. sinus pressure; 5. sneezing; 6. swollen cheeks; 7. runny nose; 8. bleeding from the nose.
+###### Ears and throat
+| d8 | Symptom |
+|:----:|:-------------|
+| 1 | hearing loss |
+| 2 | difficulty swallowing |
+| 3 | excessive ear wax |
+| 4 | sore throat |
+| 5 | swollen glands |
+| 6 | vertigo |
+| 7 | bleeding from the ears |
+| 8 | loss of voice |
 
-# Limbs
-(d8): 1. achiness; 2. joint pain; 3. muscle spasms; 4. restlessness; 5. stiff joints; 6. weakness; 7. bruising; 8. discoloration of the fingernails or toenails.
+###### Head and nose
+| d8 | Symptom |
+|:----:|:-------------|
+| 1 | dry scalp |
+| 2 | hair loss |
+| 3 | pimples |
+| 4 | sinus pressure |
+| 5 | sneezing |
+| 6 | swollen cheeks |
+| 7 | runny nose |
+| 8 | bleeding from the nose |
 
-# Mouth
-(d8): 1. bleeding gums; 2. canker sores; 3. cracked lips; 4. dry mouth; 5. foamy, excessive salivation; 6. tooth pain; 7. tooth discoloration; 8. tooth decay.
+###### Limbs
+| d8 | Symptom |
+|:----:|:-------------|
+| 1 | achiness |
+| 2 | joint pain |
+| 3 | muscle spasms |
+| 4 | restlessness |
+| 5 | stiff joints |
+| 6 | weakness |
+| 7 | bruising |
+| 8 | discoloration of the fingernails or toenails |
 
-# Sex Organs
-(d8): 1. loss of desire; 2. pale discharge; 3. inability to climax; 4. open sores; 5. pain during urination; 6. warts; 7. itchy bumps; 8. bloody discharge.
+###### Mouth
+| d8 | Symptom |
+|:----:|:-------------|
+| 1 | bleeding gums |
+| 2 | canker sores |
+| 3 | cracked lips |
+| 4 | dry mouth |
+| 5 | foamy, excessive salivation |
+| 6 | tooth pain |
+| 7 | tooth discoloration |
+| 8 | tooth decay |
 
-# Skin
-(d8): 1. black or purple spots; 2. boils; 3. itchiness; 4. pale or yellow hue; 5. peeling; 6. rash; 7. red spots; 8. scales.
+###### Sex Organs
+| d8 | Symptom |
+|:----:|:-------------|
+| 1 | loss of desire |
+| 2 | pale discharge |
+| 3 | inability to climax |
+| 4 | open sores |
+| 5 | pain during urination |
+| 6 | warts |
+| 7 | itchy bumps |
+| 8 | bloody discharge |
 
-# Stomach and gut
-(d8): 1. bloody stool; 2. constipation; 3. excessive flatulence; 4. loose stool; 5. loss of appetite; 6. nausea and vomiting; 7. ulcers, 8. vomiting blood.
+###### Skin
+| d8 | Symptom |
+|:----:|:-------------|
+| 1 | black or purple spots |
+| 2 | boils |
+| 3 | itchiness |
+| 4 | pale or yellow hue |
+| 5 | peeling |
+| 6 | rash |
+| 7 | red spots |
+| 8 | scales |
 
-d20 In rare cases, symptoms may include...
-Amnesia; partial or complete.
-Blindness or deafness.
-Coma; short-term, long-term, or indefinite.
-Complete changes in personality.
-Concurrent vomiting and diarrhea.
-Coughing up blood.
-Delusions and paranoia.
-Extreme, persistent nausea.
-Fits of narcolepsy.
-Hallucinations.
-Insomnia.
-Lengthy fits of high fever.
-Loss of muscle coordination.
-Paralysis; partial or complete.
-Periodic, temporary loss of consciousness.
-Sleep walking.
-Susceptibility to other illnesses.
-Tumors or tumor-like growths.
-Wild mood swings.
-Sudden aversion to one or more familiar foods, individuals, or objects.
+###### Stomach and gut
+| d8 | Symptom |
+|:----:|:-------------|
+| 1 | bloody stool |
+| 2 | constipation |
+| 3 | excessive flatulence |
+| 4 | loose stool |
+| 5 | loss of appetite |
+| 6 | nausea and vomiting |
+| 7 | ulcers |
+| 8 | vomiting blood |
 
-d4 Symptoms are...
-Acute and curable; once the afflicted is cured, the symptoms never return.
-Acute but recurring; once the afflicted is cured, symptoms may return later in life.
-Chronic but completely curable; once the afflicted is cured, symptoms rarely return.
-Chronic but treatable; once the afflicted is cured, symptoms will likely reoccur every few years.
+##### What are some rare symptoms in more serious cases?
+| d20 | In rare cases, symptoms may include... |
+|:----:|:-------------|
+| 1 | amnesia; partial or complete. |
+| 2 | blindness or deafness. |
+| 3 | coma; short-term, long-term, or indefinite. |
+| 4 | complete changes in personality. |
+| 5 | concurrent vomiting and diarrhea. |
+| 6 | coughing up blood. |
+| 7 | delusions and paranoia. |
+| 8 | extreme, persistent nausea. |
+| 9 | fits of narcolepsy. |
+| 10 | hallucinations. |
+| 11 | insomnia. |
+| 12 | lengthy fits of high fever. |
+| 13 | loss of muscle coordination. |
+| 14 | paralysis; partial or complete. |
+| 15 | periodic, temporary loss of consciousness. |
+| 16 | sleep walking. |
+| 17 | susceptibility to other illnesses. |
+| 18 | tumors or tumor-like growths. |
+| 19 | wild mood swings. |
+| 20 | sudden aversion to one or more familiar foods, individuals, or objects. |
 
-d6 If untreated, the disease is...
-Rarely serious; running its course in a few days or weeks.
-Rarely lethal; fatal complications occur in less than 1% of cases.
-Sometimes debilitating, but rarely lethal; permanent disabilities occur in approximately 10% of cases, and fatal complications in less than 1% of cases
-Sometimes lethal; fatal complications occur in approximately 10% of cases.
-Often debilitating, and sometimes lethal; permanent disabilities occur in more than 50% of cases, and fatal complications in approximately 10% of cases.
-Often lethal; fatal complications occur in more than 50% of cases.
+##### How severe are symptoms?
+| d4 | Symptoms are... |
+|:----:|:-------------|
+| 1 | acute and curable; once the afflicted is cured, the symptoms never return. |
+| 2 | acute but recurring; once the afflicted is cured, symptoms may return later in life. |
+| 3 | chronic but completely curable; once the afflicted is cured, symptoms rarely return. |
+| 4 | chronic but treatable; once the afflicted is cured, symptoms will likely reoccur every few years. |
 
-d8 The disease can be cured with...
-A simple herbal remedy.
-A complex herbal potion or salve.
-A widely available healing potion or balm.
-A rare alchemical concoction.
-No known earthly substances.
-Basic healing spells and incantations.
-Advanced healing spells and potions.
-Extremely powerful and rare magic.
+##### What happens if the disease is left untreated?
+| d6 | If untreated, the disease is... |
+|:----:|:-------------|
+| 1 | rarely serious; running its course in a few days or weeks. |
+| 2 | rarely lethal; fatal complications occur in less than 1% of cases. |
+| 3 | sometimes debilitating, but rarely lethal; permanent disabilities occur in approximately 10% of cases, and fatal complications in less than 1% of cases |
+| 4 | sometimes lethal; fatal complications occur in approximately 10% of cases. |
+| 5 | often debilitating, and sometimes lethal; permanent disabilities occur in more than 50% of cases, and fatal complications in approximately 10% of cases. |
+| 6 | often lethal; fatal complications occur in more than 50% of cases. |
 
-d6 The time-course of treatment is...
-Rapid; the afflicted is cured within 1 day.
-Short; the afflicted is cured within a few days of receiving treatment.
-Typical; the afflicted is cured within a few days of receiving treatment.
-Lengthy; the afflicted is cured within a few weeks of receiving treatment.
-Long-term; the afflicted is cured within a few months of receiving treatment.
-Erratic; the time-course of treatment varies greatly among individuals or among outbreaks of the disease.
+##### What's the cure for this disease?
+| d8 | The disease can be cured with... |
+|:----:|:-------------|
+| 1 | a simple herbal remedy. |
+| 2 | a complex herbal potion or salve. |
+| 3 | a widely available healing potion or balm. |
+| 4 | a rare alchemical concoction. |
+| 5 | no known earthly substances. |
+| 6 | basic healing spells and incantations. |
+| 7 | advanced healing spells and potions. |
+| 8 | extremely powerful and rare magic. |
 
-MAGICAL MALADIES
-d20 The magical disease is associated with...
-Belching up vermin.
-Demonic or ghostly possession.
-The desire to consume humanoid flesh.
-The desire to consume rocks or dirt.
-The desire to consume pixies and sprites.
-The desire to dig a deep hole.
-The desire to build an immense wall.
-Gaining the personality of a long-dead, well-known magic-user.
-Gradually morphing into a wild beast.
-Gradually morphing into a puddle of ooze.
-Imitating the behavior of a common beast.
-Loss of the power of speech.
-Periodic spells of befuddlement.
-Purple or green splotches on the skin.
-Rapid growth of facial hair.
-Rapid growth of fingernails or teeth.
-Rapid hair growth.
-Uncontrollable fits of laughter or tears.
-Uncontrollable singing or dancing.
-Overactive libido.
+##### How long does treatment take?
+| d6 | The time-course of treatment is... |
+|:----:|:-------------|
+| 1 | rapid; the afflicted is cured within 1 day. |
+| 2 | short; the afflicted is cured within a few days of receiving treatment. |
+| 3 | typical; the afflicted is cured within a few days of receiving treatment. |
+| 4 | lengthy; the afflicted is cured within a few weeks of receiving treatment. |
+| 5 | long-term; the afflicted is cured within a few months of receiving treatment. |
+| 6 | erratic; the time-course of treatment varies greatly among individuals or among outbreaks of the disease. |
+
+#### Magical Maladies
+Some diseases are magical in nature, rather than biological. Use the tables below for magical disease effects.
+
+###### Is the disease magical in nature?
+| d100 | Is it magical? |
+|:----:|:-------------|
+| 01 - 80 | The disease has no magical effects. |
+| 81 - 100 | The disease has magical effects. |
+
+###### What are the magical effects of the disease?
+| d20 | The magical disease is associated with... |
+|:----:|:-------------|
+| 1 | belching up vermin. |
+| 2 | demonic or ghostly possession. |
+| 3 | the desire to consume humanoid flesh. |
+| 4 | the desire to consume rocks or dirt. |
+| 5 | the desire to consume pixies and sprites. |
+| 6 | the desire to dig a deep hole. |
+| 7 | the desire to build an immense wall. |
+| 8 | gaining the personality of a long-dead, well-known magic-user. |
+| 9 | gradually morphing into a wild beast. |
+| 10 | gradually morphing into a puddle of ooze. |
+| 11 | imitating the behavior of a common beast. |
+| 12 | loss of the power of speech. |
+| 13 | periodic spells of befuddlement. |
+| 14 | purple or green splotches on the skin. |
+| 15 | rapid growth of facial hair. |
+| 16 | rapid growth of fingernails or teeth. |
+| 17 | rapid hair growth. |
+| 18 | uncontrollable fits of laughter or tears. |
+| 19 | uncontrollable singing or dancing. |
+| 20 | overactive libido. |
