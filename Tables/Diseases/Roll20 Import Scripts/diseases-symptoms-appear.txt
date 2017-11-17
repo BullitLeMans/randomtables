@@ -1,0 +1,9 @@
+!import-table --diseases-symptoms-appear --hide
+!import-table-item --diseases-symptoms-appear --almost immediately (<%%91%%><%%91%%>1d9-1<%%93%%><%%93%%> hours) --1 --
+!import-table-item --diseases-symptoms-appear --very rapidly over the next <%%91%%><%%91%%>1d20+4<%%93%%><%%93%%> hours --1 --
+!import-table-item --diseases-symptoms-appear --within a few days (<%%91%%><%%91%%>1d4<%%93%%><%%93%%> days) --1 --
+!import-table-item --diseases-symptoms-appear --in the next week (<%%91%%><%%91%%>1d7+1<%%93%%><%%93%%> days) --1 --
+!import-table-item --diseases-symptoms-appear --in the next few weeks (<%%91%%><%%91%%>1d4<%%93%%><%%93%%> weeks) --1 --
+!import-table-item --diseases-symptoms-appear --some time in the next 2 months (<%%91%%><%%91%%>1d7+1<%%93%%><%%93%%> weeks) --1 --
+!import-table-item --diseases-symptoms-appear --some time in the next year (<%%91%%><%%91%%>1d11+1<%%93%%><%%93%%> months) --1 --
+!import-table-item --diseases-symptoms-appear --some time in the person's life (<%%91%%><%%91%%>1d39+1<%%93%%><%%93%%> years) --1 --

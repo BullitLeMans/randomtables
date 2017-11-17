@@ -1,0 +1,5 @@
+!import-table --diseases-symptoms-are --hide
+!import-table-item --diseases-symptoms-are --acute and curable; once the afflicted is cured, the symptoms never return  --1 --
+!import-table-item --diseases-symptoms-are --acute but recurring; once the afflicted is cured, symptoms may return later in life --1 --
+!import-table-item --diseases-symptoms-are --chronic but completely curable; once the afflicted is cured, symptoms rarely return. --1 --
+!import-table-item --diseases-symptoms-are --chronic but treatable; once the afflicted is cured, symptoms will likely reoccur every few years --1 --

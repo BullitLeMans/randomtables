@@ -1,0 +1,3 @@
+!import-table --diseases-is-magical --hide
+!import-table-item --diseases-is-magical -- --95 --
+!import-table-item --diseases-is-magical --This magical disease is associated with <%%91%%><%%91%%>1t<%%91%%>diseases-magical-effects<%%93%%><%%93%%><%%93%%> --5 --

@@ -1,0 +1,9 @@
+!import-table --diseases-cured-with --hide
+!import-table-item --diseases-cured-with --a simple herbal remedy --1 --
+!import-table-item --diseases-cured-with --a complex herbal potion or salve --1 --
+!import-table-item --diseases-cured-with --a widely available healing potion or balm --1 --
+!import-table-item --diseases-cured-with --a rare alchemical concoction --1 --
+!import-table-item --diseases-cured-with --no known earthly substances --1 --
+!import-table-item --diseases-cured-with --basic healing spells and incantations --1 --
+!import-table-item --diseases-cured-with --advanced healing spells and potions --1 --
+!import-table-item --diseases-cured-with --extremely powerful and rare magic --1 --

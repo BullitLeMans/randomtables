@@ -1,0 +1,9 @@
+!import-table --diseases-common-symptoms-head-and-nose --hide
+!import-table-item --diseases-common-symptoms-head-and-nose --dry scalp --1 --
+!import-table-item --diseases-common-symptoms-head-and-nose --hair loss --1 --
+!import-table-item --diseases-common-symptoms-head-and-nose --pimples --1 --
+!import-table-item --diseases-common-symptoms-head-and-nose --sinus pressure --1 --
+!import-table-item --diseases-common-symptoms-head-and-nose --sneezing --1 --
+!import-table-item --diseases-common-symptoms-head-and-nose --swollen cheeks --1 --
+!import-table-item --diseases-common-symptoms-head-and-nose --runny nose --1 --
+!import-table-item --diseases-common-symptoms-head-and-nose --bleeding from the nose --1 --

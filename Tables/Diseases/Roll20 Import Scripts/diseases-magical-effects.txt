@@ -1,0 +1,21 @@
+!import-table --diseases-magical-effects --hide
+!import-table-item --diseases-magical-effects --belching up vermin --1 --
+!import-table-item --diseases-magical-effects --demonic or ghostly possession --1 --
+!import-table-item --diseases-magical-effects --the desire to consume humanoid flesh --1 --
+!import-table-item --diseases-magical-effects --the desire to consume rocks or dirt --1 --
+!import-table-item --diseases-magical-effects --the desire to consume pixies and sprites --1 --
+!import-table-item --diseases-magical-effects --the desire to dig a deep hole --1 --
+!import-table-item --diseases-magical-effects --the desire to build an immense wall --1 --
+!import-table-item --diseases-magical-effects --gaining the personality of a long-dead, well-known magic-user --1 --
+!import-table-item --diseases-magical-effects --gradually morphing into a wild beast --1 --
+!import-table-item --diseases-magical-effects --gradually morphing into a puddle of ooze --1 --
+!import-table-item --diseases-magical-effects --imitating the behavior of a common beast --1 --
+!import-table-item --diseases-magical-effects --loss of the power of speech --1 --
+!import-table-item --diseases-magical-effects --periodic spells of befuddlement --1 --
+!import-table-item --diseases-magical-effects --purple or green splotches on the skin --1 --
+!import-table-item --diseases-magical-effects --rapid growth of facial hair --1 --
+!import-table-item --diseases-magical-effects --rapid growth of fingernails or teeth --1 --
+!import-table-item --diseases-magical-effects --rapid hair growth --1 --
+!import-table-item --diseases-magical-effects --uncontrollable fits of laughter or tears --1 --
+!import-table-item --diseases-magical-effects --uncontrollable singing or dancing --1 --
+!import-table-item --diseases-magical-effects --overactive libido --1 --
