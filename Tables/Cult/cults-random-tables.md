@@ -47,7 +47,7 @@ The cults secret is that through a "curse" the cultists are only able to act tow
 | 21 - 26 | The cellar of a wealthy merchant's house. |
 | 27 - 33 | The city sewers. |
 | 34 - 40 | Ancient catacombs beneath the city. |
-| 41 - 46 | An ancient sarchophagos in the graveyard. |
+| 41 - 46 | An ancient sarcophagus in the graveyard. |
 | 47 - 53 | An abandoned manor. |
 | 54 - 60 | A different cult members home each week. |
 | 61 - 66 | The woods near town. |
