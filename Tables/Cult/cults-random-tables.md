@@ -2,8 +2,6 @@
 
 Credit to /u/ubler, /u/OrkishBlade, and /u/jacobgrey
 
-[Test link](../Diseases/Diseases-Random-Table.md)
-
 Source tables originally found at https://www.reddit.com/r/DnDBehindTheScreen/comments/3fnpvb/made_a_cult_generator_that_runs_in_excel/
 
 Excel Macro-enabled workbook (Sheet - Cult Generator Ubler): https://www.dropbox.com/s/iheu207elvkjhk9/ETM%20v2%20-%20Ubler%27s%20Table%20Set%20%28w%20cult%20generator%29.xlsm?dl=0
@@ -12,13 +10,17 @@ These tables can be used together to create a random cult.
 
 Here's a sample result from the series:
 
-> *The cultists revere //2 .
-Their primary goals are "//5" as well as "//5".
-The members are primarily //6 who meet in //3 .
-The cult's practices include //4 and //4 .
-They are somehow associated with the abstract concept of //7 .
-The cults secret is that //15 .
-Possible plot hooks include "//8" and "//8".*
+> *The cultists revere a long-dead ancient villain.
+Their primary goals are convert all infidels as well as defeating death.
+The members are primarily orcs who meet in the cellar of a wealthy merchant's house.
+The cult's practices include secretly committing petty evil daily. and every member makes a pilgrimage to underworld holy site.
+They are somehow associated with the abstract concept of the solidity of earth.
+The cults secret is that through a "curse" the cultists are only able to act towards good.*
+
+>Possible plot hooks include
+1. Powerful cleric keeps forgetting previous night and manifesting stigmata.
+2. Cultists harassed the wrong person
+
 
 ##### Who do the cultists revere? (2)
 | d12 | The cultists revere... |
@@ -116,7 +118,7 @@ Possible plot hooks include "//8" and "//8".*
 | 96 - 100 | Personal awakening. |
 
 ##### Members (6)
-| | What group makes the majority of the cult's members? |
+| d100 | What group makes the majority of the cult's members? |
 |:----:|:-------------|
 | 1 - 3 | City creatures. |
 | 4 - 7 | Children. |
@@ -191,92 +193,22 @@ Possible plot hooks include "//8" and "//8".*
 | 90 - 94 | PCs stumble upon ceremony. |
 | 95 - 100 | Cultist found dead, obviously in middle of ceremony. |
 
-##### Dragons(10)
-| d6 | Dragon |
+##### Secrets(9)
+| d100 | The cult's secret is... |
 |:----:|:-------------|
-| 1 |	A black dragon. |
-| 2 | A blue dragon. |
-| 3 | A green dragon. |
-| 4 | A red dragon. |
-| 5 | A white dragon. |
-| 6 | A purple dragon. |
-
-##### Aberrations(12)
-| d12 | Aberration |
-|:----:|:-------------|
-| 1 | Aboleth |
-| 2 | Chuul |
-| 3 | Cloaker |
-| 4 | Drider |
-| 5 | Ettercap |
-| 6 | Gibbering Mouther |
-| 7 | Grick |
-| 8 | Mimic |
-| 9 | Naga |
-| 10 | Otyugh |
-| 11 | Rust Monster |
-| 12 | Will-o'-Wisp |
-
-##### elder evils(13)
-Prob.	Result	Go to:
-1	the elder evil Algollied (Algollied, the Melody of Death, a sentient song whose presence drives its listeners mad.)
-1	the elder evil Azter (Azter, The Blood Emperor, He Who Swims Time and Space, the Time Devourer and Scion of Hopelessness.)
-1	the elder evil Dream Eater Asabikeshiinh (Within the unreality of these Dreamlands lies a terrible predator of dreams and sleep, the being known as Asabikeshiinh. If such a creature was allowed to enter reality, the dream eater would devour the concept of sleep from the world.)
-1	the elder evil Extheoria (When civilization reaches great heights and society is at its richest, it comes from the darkness above to harvest the sentience of the world and make it part of its own. It is Exthoria, Reaper of Minds)
-1	the elder evil Infernal Train (The Infernal Train exists for one purpose: to unmake creation and return all to oblivion.)
-1	the elder evil Metadeus (It is the sentient manifestation of fate, the desire for the universe to follow a certain course of action. The stories of time travel where the past refuses to change, the inescapable fate, such is the work of Metadeus.)
-1	the elder evil Samyaza (The Father of Devils, The Fallen One, The Grigori Lord.)
-1	the elder evil Zalgo (The Nezperdian hive-mind of chaos.)
-1	the elder evil Zgazdrkrkl (Known as the primordial jellyfish, Zgazdrkrkl is composed of the infinite primal hatred of countless invertebrates towards all the bony creatures of this world.)
-
-##### Devils and Demons(14)
-Prob.	Result	Go to:
-1	a Babau (demon)
-1	a Balor (demon)
-1	a Bebilith (demon)
-1	a Dretch (demon)
-1	a Glabrezu (demon)
-1	a Hezrou (demon)
-1	a Marilith (demon)
-1	a Nalfeshnee (demon)
-1	a Quasit (demon)
-1	a Retriever (demon)
-1	a Succubus (demon)
-1	a Vrock (demon)
-1	a Barbazu (devil)
-1	a Barbed Devil
-1	a Bearded Devil
-1	a Bezekira (devil)
-1	a Bone Devil
-1	a Chain Devil
-1	a Cornugon (devil)
-1	an Erinyes (devil)
-1	a Gelugon (devil)
-1	a Hamatula (devil)
-1	a Hellcat (devil)
-1	a Horned Devil
-1	a Ice Devil
-1	an Imp (devil)
-1	a Kyton (devil)
-1	a Lemure (devil)
-1	an Osyluth (devil)
-1	a Pit Fiend (devil)
-
-##### Secrets(15)
-Prob.	Result	Go to:
-1	the whole thing is a scam
-1	its all a trick to scare the neighbors
-1	the leader is actually an puppet or avatar of the revered one
-1	the leader is under a charm
-1	everything is just as it seems
-1	the cultists are lycanthropes
-1	the cultists used to be adventurers too
-1	the cultists are all charmed
-1	the whole town is ensorcelled (charms, illusions, etc) to keep the secret
-1	no one knows who the leader is
-1	cult is lead through autonomous action
-1	the cult is actually a front for an even more sinister organization
-1	people are just participating out of boredom
-1	its all an elaborate theater production
-1	its all part of a mad god's dreams
-1	through a "curse" the cultists are only able to act towards good
+| 1 - 6 | the whole thing is a scam. |
+| 7 - 12 | it's all a trick to scare the neighbors. |
+| 13 - 19 | the leader is actually an puppet or avatar of the revered one. |
+| 20 - 25 | the leader is under a charm. |
+| 26 - 31 | everything is just as it seems. |
+| 32 - 37 | the cultists are lycanthropes. |
+| 38 - 44 | the cultists used to be adventurers too. |
+| 45 - 50 | the cultists are all charmed. |
+| 51 - 56 | the whole town is ensorcelled (charms, illusions, etc) to keep the secret. |
+| 57 - 62 | no one knows who the leader is. |
+| 63 - 69 | cult is lead through autonomous action. |
+| 70 - 75 | the cult is actually a front for an even more sinister organization. |
+| 76 - 81 | people are just participating out of boredom. |
+| 82 - 87 | it's all an elaborate theater production. |
+| 88 - 93 | it's all part of a mad god's dreams. |
+| 94 - 100 | through a "curse" the cultists are only able to act towards good. |
