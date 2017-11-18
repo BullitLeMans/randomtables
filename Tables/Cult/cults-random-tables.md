@@ -2,6 +2,8 @@
 
 Credit to /u/ubler, /u/OrkishBlade, and /u/jacobgrey
 
+[Test link](../Diseases/Diseases-Random-Table.md)
+
 Source tables originally found at https://www.reddit.com/r/DnDBehindTheScreen/comments/3fnpvb/made_a_cult_generator_that_runs_in_excel/
 
 Excel Macro-enabled workbook (Sheet - Cult Generator Ubler): https://www.dropbox.com/s/iheu207elvkjhk9/ETM%20v2%20-%20Ubler%27s%20Table%20Set%20%28w%20cult%20generator%29.xlsm?dl=0
